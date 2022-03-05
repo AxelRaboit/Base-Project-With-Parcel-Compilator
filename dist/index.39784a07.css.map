@@ -1,0 +1,1 @@
+{"mappings":"AAEA,KACI,uBCDJ","sources":["src/styles/_settings.scss","%3Cinput%20css%20naM3Ic%3E"],"sourcesContent":["$color-1: salmon;\n\nbody {\n    background-color: $color-1;\n}","body {\n  background-color: salmon;\n}\n/*# sourceMappingURL=index.39784a07.css.map */\n"],"names":[],"version":3,"file":"index.39784a07.css.map"}
